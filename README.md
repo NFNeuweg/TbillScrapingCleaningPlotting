@@ -27,5 +27,5 @@ Python scripts to scrape U.S. Treasury Bill auction results, build CSV datasets,
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
+source .venv/bin/activate
 pip install pandas numpy plotly requests beautifulsoup4
